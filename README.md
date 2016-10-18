@@ -1,3 +1,5 @@
+# contain all information about general store billing management system on java core project
+# main project link is https://github.com/raman-verma/generalstore_billing_management_system.git
 # general-store
 client based java program for management of customer and products in a general store
 # requirement before running the project
